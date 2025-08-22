@@ -1,0 +1,472 @@
+{
+  "packages": [
+    {
+      "logo": [
+        {
+          "name": "Basic Logo",
+          "price": "10K",
+          "features": [
+            "5 Logo Design Concepts",
+            "8 Revisions",
+            "2 Dedicated Designers",
+            "2 - 3 Days Turnaround Time",
+            "File Format (JPG, PNG, AI/PSD)"
+          ]
+        },
+        {
+          "name": "Advance Logo",
+          "price": "20K",
+          "features": [
+            "8 Logo Design Concepts",
+            "10 Revisions",
+            "3 Dedicated Designers",
+            "5 Days Turnaround Time",
+            "File Format (JPG, PNG, AI/PSD)"
+          ]
+        },
+        {
+          "name": "Premium Logo",
+          "price": "30K",
+          "features": [
+            "Unlimited Logo Design Concepts",
+            "Unlimited Revisions",
+            "FREE Icon Design",
+            "FREE Social Kit (FB, Insta, Twitter, Linkedin)",
+            "FREE File Formats (PSD, PDF, AI, JPEG, PNG)",
+            "FREE Vector Files",
+            "6 Dedicated Designers",
+            "ADDS ON",
+            "Stationery Design (Business Card, Letterhead, Envelope, Invoice) (2000/- PKR)"
+          ]
+        }
+      ],
+      "banner": [
+        {
+          "name": "Basic Banner",
+          "price": "7K",
+          "features": [
+            " 1 Attractive Design Concept",
+            "Includes 2 Dedicated Designer",
+            "Single Flyers",
+            "Any Size Flyers",
+            "Modern Design with Latest Trends",
+            "Free Sample Design & Mockup File",
+            " Get Free Photo Editing",
+            "Design in English, Arabic, Hebrew, Spanish & More",
+            " Unlimited Revisions",
+            " Digital & Print Format: AI/PSD/JPG/PNG/PDF (Recommended Format)",
+            "Copyright Transfer",
+            "– Value Added Services",
+            " Dedicated Project Manager",
+            "100% Ownership Rights",
+            "100% Satisfaction Guarantee",
+            "100% Money Back Guarantee",
+            "*NO MONTHLY OR ANY HIDDEN FEE*"
+          ]
+        },
+        {
+          "name": "Advance Banner",
+          "price": "15K",
+          "features": [
+            "1 Attractive Design Concept",
+            "Includes 6 Dedicated Designer",
+            "Double-Sided Flyers",
+            "Any Size Flyers",
+            "Modern Design with Latest Trends",
+            "Free Sample Design & Mockup File",
+            "Get Free Photo Editing",
+            "Design in English, Arabic, Hebrew, Spanish & More",
+            "Unlimited Revisions",
+            "Digital & Print Format: AI/PSD/JPG/PNG/PDF (Recommended Format)",
+            "Copyright Transfer",
+            "– Value Added Services",
+            "Dedicated Project Manager",
+            "100% Ownership Rights",
+            "100% Satisfaction Guarantee",
+            "100% Money Back Guarantee",
+            "*NO MONTHLY OR ANY HIDDEN FEE*"
+          ]
+        },
+        {
+          "name": "Premium Banner",
+          "price": "25K",
+          "features": [
+            "1 Attractive Design Concept",
+            "Includes 7 Dedicated Designer",
+            "Double-Sided Leaflet",
+            "Any Size Flyers",
+            "Modern Design with Latest Trends",
+            "Free Sample Design & Mockup File",
+            "Get Free Photo Editing",
+            "Design in English, Arabic, Hebrew, Spanish & More",
+            "Unlimited Revisions",
+            "Digital & Print Format: AI/PSD/JPG/PNG/PDF (Recommended Format)",
+            "Copyright Transfer",
+            " – Value Added Services",
+            "Dedicated Project Manager",
+            "100% Ownership Rights",
+            "100% Satisfaction Guarantee",
+            "100% Money Back Guarantee",
+            "*NO MONTHLY OR ANY HIDDEN FEE*"
+          ]
+        }
+      ],
+      "branding": [
+        {
+          "name": "Branding Basic",
+          "price": "50K",
+          "features": [
+            "1 Stationery Design Set Concepts",
+            "1 Logo Design Concepts",
+            "1 Flyer Design",
+            "1 Banner Design Concept (any size)",
+            "1 Brochure Design (Bi-fold/Tri-fold)",
+            "2 Stock Photos",
+            "T-Shirt Design (2 Concepts)",
+            "Menu Card Design (2 Concepts)",
+            "Free Social Media Banners (any 3)",
+            "Free Email Signature",
+            "Free Word Doc for Letterhead",
+            "3 Revisions",
+            "Turn Around 48-72 Hours",
+            "Print Ready Formats"
+          ]
+        },
+        {
+          "name": "Branding Advance",
+          "price": "70K",
+          "features": [
+            "2 Stationery Design Set Concepts",
+            "2 Logo Design Concepts",
+            "2 Flyer Design",
+            "2 Banner Design Concept (any size)",
+            "2 Brochure Design (Bi-fold/Tri-fold)",
+            "4 Stock Photos",
+            "T-Shirt Design (3 Concepts)",
+            "Menu Card Design (3 Concepts)",
+            "Free Social Media Banners (any 5)",
+            "Free Email Signature",
+            "Free Word Doc for Letterhead",
+            "4 Revisions",
+            "Turn Around 48-72 Hours",
+            "Print Ready Formats"
+          ]
+        },
+        {
+          "name": "Branding Prenium",
+          "price": "90K",
+          "features": [
+            "6 Stationery Design Set Concepts",
+            "3 Logo Design Concepts",
+            "5 Flyer Design",
+            "3 Banner Design Concept (any size)",
+            "4 Brochure Design (Bi-fold/Tri-fold)",
+            "5 Stock Photos",
+            "T-Shirt Design (4 Concepts)",
+            "Menu Card Design (4 Concepts)",
+            "Free Social Media Banners (any 5)",
+            "Free Email Signature",
+            "Free Word Doc for Letterhead",
+            "5 Revisions",
+            "Turn Around 48-72 Hours",
+            "Print Ready Formats"
+          ]
+        }
+      ],
+      "2dAnimation": [
+        {
+          "name": "2D Lower",
+          "price": "50K",
+          "features": [
+            "15 second video",
+            "Script",
+            "Storyboard & Characters",
+            "Voiceover",
+            "Animation & SFX",
+            "Finalized & Published"
+          ]
+        },
+        {
+          "name": "2D Basic",
+          "price": "80K",
+          "features": [
+            "30 second video",
+            "Script",
+            "Storyboard & Characters",
+            "Voiceover",
+            "Animation & SFX",
+            "Finalized & Published"
+          ]
+        },
+        {
+          "name": "2D Advance",
+          "price": "120K",
+          "features": [
+            "45 second video",
+            "Script",
+            "Storyboard & Characters",
+            "Voiceover",
+            "Animation & SFX",
+            "Finalized & Published"
+          ]
+        },
+        {
+          "name": "2D Prenium",
+          "price": "160K",
+          "features": [
+            "60 second video or more",
+            "Script",
+            "Storyboard & Characters",
+            "Voiceover",
+            "Animation & SFX",
+            "Finalized & Published"
+          ]
+        }
+      ],
+      "3dAnimation": [
+        {
+          "name": "3D Basic",
+          "price": "120K",
+          "features": [
+            "30 Second Video",
+            "Professional Script",
+            "Storyboard",
+            "Animation",
+            "Voice - Over & Sound Effects",
+            "4 weeks Delivery",
+            "Unlimited Revisions"
+          ]
+        },
+        {
+          "name": "3D Advance",
+          "price": "220K",
+          "features": [
+            "60 Second Video",
+            "Professional Script",
+            "Sample Theme",
+            "Storyboard",
+            "Animation",
+            "Voice - Over & Sound Effects",
+            "5 weeks Delivery",
+            "Unlimited Revisions"
+          ]
+        },
+        {
+          "name": "3D Prenium",
+          "price": "320K",
+          "features": [
+            "90 Second Video",
+            "Professional Script",
+            "Sample Theme",
+            "Storyboard",
+            "Animation",
+            "Voice - Over & Sound Effects",
+            "6 weeks Delivery",
+            "Unlimited Revisions"
+          ]
+        }
+      ],
+      "development": [
+        {
+          "name": "Basic For startups",
+          "price": "30K",
+          "features": [
+            "up to 8 pages",
+            "Prebuilt premium Theme ",
+            "Social Media Integration ",
+            "Google console/analytics ",
+            "Blog Integration",
+            "Mobile Responsive",
+            "Contact Form",
+            "Basic SEO",
+            "1 Month Support"
+          ]
+        },
+        {
+          "name": "Professional For Companies",
+          "price": "50K",
+          "features": [
+            "up to 15 pages",
+            "Prebuilt premium Theme ",
+            "Social Media Integration ",
+            "ON-SITE SEO",
+            "Google console/analytics ",
+            "Blog Integration",
+            "Mobile Responsive",
+            "Contact Form",
+            "Advanced SEO",
+            "Website Training",
+            "30 DAYS MAINTENANCE",
+            "3 Months Support"
+          ]
+        },
+        {
+          "name": "Ecommerce For online sellers",
+          "price": "75K",
+          "features": [
+            "up to 50 Product pages",
+            "PREMIUM ecom THEME ",
+            "Social Media Integration ",
+            "ON-SITE SEO",
+            "Google console/analytics ",
+            "Blog Integration",
+            "Mobile Responsive",
+            "Contact Form",
+            "Advanced SEO",
+            "Website Training",
+            "45 DAYS MAINTENANCE",
+            "6 Months Support"
+          ]
+        }
+      ],
+      "marketing": [
+        {
+          "name": "SMM Basic",
+          "price": "50K",
+          "features": [
+            " Social Media Posts 8/Month",
+            "Social Media Management",
+            "Handle/ Manage 2 Social Media Platforms",
+            "Copy Writing",
+            "1 Short Video/ (5 - 10 sec)",
+            "Visuals Creation",
+            "Paid Advertisement Management",
+            "Page & Profile Management",
+            "Hashtags Optimization",
+            "Community Management",
+            "1 Ad Creative",
+            "1 Social Media Ad Campaign",
+            "Standard Reporting",
+            "Monthly Content Calendar",
+            "Social Media 1 Cover"
+          ]
+        },
+        {
+          "name": "SMM Advance",
+          "price": "70K",
+          "features": [
+            "Social Media Posts 12/Month",
+            "Handle/ Manage 3 Social Media Platforms",
+            "Copy Writing",
+            "2 Short Video/ (5 - 10 sec)",
+            "Visuals Creation",
+            "Paid Advertisement Management",
+            "Page & Profile Management",
+            "Hashtags Optimization",
+            "Community Management",
+            "2-3 Ad Creative",
+            "2-3 Social Media Ad Campaign",
+            "Standard Reporting",
+            "Monthly Content Calendar",
+            "Social Media 2 Cover"
+          ]
+        },
+        {
+          "name": "SMM Business",
+          "price": "100K",
+          "features": [
+            "Social Media Posts 15/Month",
+            "Handle/ Manage 4 Social Media Platforms",
+            "Copy Writing",
+            "3 Short Video/ (5 - 10 sec)",
+            "Visuals Creation",
+            "Paid Advertisement Management",
+            "Page & Profile Management",
+            "Hashtags Optimization",
+            "Community Management",
+            "4 Ad Creative",
+            "4 Social Media Ad Campaign",
+            "Standard Reporting",
+            "Monthly Content Calendar",
+            "Social Media 2 Covers"
+          ]
+        },
+        {
+          "name": "SEO Basic",
+          "price": "35K",
+          "features": [
+            "Targeted keywords 10",
+            "Total 3000 word count / month",
+            "Keyword Research",
+            "5 Page optimization",
+            "Off-page activities",
+            "Ongoing Link Building",
+            "Complete on-page optimization",
+            "Monthly report",
+            "Product / Service Description (3 per month)",
+            "Creation & registrations of Sitemap.xml",
+            "Website speed optimization(Quarterly)",
+            "Email support",
+            "Shared project manager",
+            "Meta Tags Optimization"
+          ]
+        },
+        {
+          "name": "SEO Advance",
+          "price": "50K",
+          "features": [
+            "Targeted keywords 25",
+            "Page optimization (8 per month)",
+            "Keyword Research",
+            "Complete on-page optimization",
+            "Implementation of Schema Markup",
+            "HTML Corrections",
+            "Content development",
+            "Existing Content Optimization if needed",
+            "Url Rewriting if needed",
+            "2 Blogs per month",
+            "Total 5000 word count / month",
+            "Email and chat support",
+            "Core web vital score optimization",
+            "Meta Tags Optimization",
+            "1 Competitors Analysis",
+            "Robots File optimization",
+            "Ongoing Link Building",
+            "Complete on-page optimization",
+            "Monthly report",
+            "Product / Service Description (8 per month)",
+            "Creation & registrations of Sitemap.xml",
+            "Speed optimization every month",
+            "Shared project manager"
+          ]
+        },
+        {
+          "name": "SEO Business",
+          "price": "70K",
+          "features": [
+            "Targeted keywords 40",
+            "Page optimization (10 per month)",
+            "Keyword Research",
+            "LSI optimization",
+            "SEO Friendly URL Setup",
+            "SEO Site Checkup Score Optimization",
+            "Tracking Implementation",
+            "Local Business Listings",
+            "Fixation of Basic Search Console issues",
+            "Page Speed optimization (2 times a month)",
+            "Complete on-page optimization",
+            "Implementation of Schema Markup",
+            "HTML Corrections",
+            "Content development",
+            "Existing Content Optimization if needed",
+            "Url Rewriting if needed",
+            "3 Blogs per month",
+            "Total 6000 word count / month",
+            "Email and chat support",
+            "Core web vital score optimization",
+            "Meta Tags Optimization",
+            "2 Competitors Analysis",
+            "Robots File optimization",
+            "Ongoing Link Building",
+            "Complete on-page optimization",
+            "Monthly report",
+            "Product / Service Description (10 per month)",
+            "Creation & registrations of Sitemap.xml",
+            "Speed optimization every month",
+            "Shared project manager"
+          ]
+        }
+      ]
+    }
+  ]
+}
