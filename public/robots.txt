@@ -1,0 +1,16 @@
+# Allow all crawlers full access
+User-agent: *
+
+# Allow crawling of all content
+Allow: /
+
+# Block build artifacts (for security & crawl budget)
+Disallow: /static/js/*.map$
+Disallow: /static/css/*.map$
+
+# Optional: Block development/debug paths (if any)
+Disallow: /__webpack_hmr
+Disallow: /sockjs-node
+
+# Sitemap location (important for indexing)
+Sitemap: https://quickowlgraphics.com/sitemap.xml
